@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolHRAdmistraion", "SchoolHRAdmistraion\SchoolHRAdmistraion.csproj", "{30774302-A6FA-4691-9E1D-B7C08DE9CB00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRAdmistrationAPI", "HRAdmistrationAPI\HRAdmistrationAPI.csproj", "{C6F72957-3A7D-4166-B8F1-37EAAE7A1577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30774302-A6FA-4691-9E1D-B7C08DE9CB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30774302-A6FA-4691-9E1D-B7C08DE9CB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30774302-A6FA-4691-9E1D-B7C08DE9CB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30774302-A6FA-4691-9E1D-B7C08DE9CB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F72957-3A7D-4166-B8F1-37EAAE7A1577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F72957-3A7D-4166-B8F1-37EAAE7A1577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F72957-3A7D-4166-B8F1-37EAAE7A1577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F72957-3A7D-4166-B8F1-37EAAE7A1577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
